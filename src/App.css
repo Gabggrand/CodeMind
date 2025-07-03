@@ -1,0 +1,25 @@
+body {
+  background-color: #3B3B3B;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: auto;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1F1F1F; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555; 
+  border-radius: 10px;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #555 #ffffff00;
+}
