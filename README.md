@@ -1,12 +1,32 @@
-# React + Vite
+# CodeMind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CodeMind** é uma interface moderna desenvolvida para simular um assistente inteligente capaz de auxiliar programadores na correção de código e resolução de problemas. O projeto foi estruturado com foco em usabilidade, design limpo e uma base sólida para futura integração com APIs de inteligência artificial.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
 
-## Expanding the ESLint configuration
+- Interface de chat simulando interações com uma IA
+- Editor de código com destaque visual e botão de cópia
+- Layout responsivo adaptado para diferentes tamanhos de tela
+- Estrutura pronta para integração com backend e IA real
+- Simulação de respostas automáticas para testes de interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tecnologias utilizadas
+
+- **React.js** – Biblioteca para construção da interface
+- **Tailwind CSS** – Framework de estilização utilitária
+- **Vite** – Ferramenta de desenvolvimento e build
+
+---
+
+## Status do projeto
+
+O projeto encontra-se em desenvolvimento. Algumas funcionalidades estão em fase de estruturação, incluindo:
+
+- Integração com APIs de IA (como OpenAI)
+- Processamento backend com Node.js
+- Suporte a múltiplas linguagens de programação
+- Histórico de interações e autenticação de usuários
